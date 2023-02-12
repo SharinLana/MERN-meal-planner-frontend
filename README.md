@@ -21,7 +21,7 @@ The main goals for me as a web developer were to improve my skills in working wi
 ## To view the app in the browser, copy and paste the following URL to your browser URL address bar:
 
 ```
-
+https://mern-stack-meal-planner.netlify.app/
 ```
 
 ## Languages, frameworks, libraries, packages, tools and technologies:
